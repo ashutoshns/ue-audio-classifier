@@ -1,6 +1,5 @@
 # URBAN ENVIRONMENT AUDIO CLASSIFICATION
 
-## Abstract
 The goal of this project is to build an audio classifier capable of recognising different sounds. The sounds we have used are ambient noises from an urban environment. Right now we have focused on 4 categories of sounds. This can prove to be a very effective tool for audio surviellance of the sorrounding. It's applications can vary from as simple as making a device to detect a dog's bark to as big as detection of gun shots/bombing or other terrorist activities. We tried plotting different types of spectrograms of samples from each class which inturn lead us to see what filters would be best suited for this classification. In the end we used Mel-frequency cepstral coefficients, Mel-scaled power spectrogram, Chromagram of a short-time Fourier transform, Octave-based spectral contrast, Tonnetz to extract features. The coeffecients from these filters led to 193 features which were then used for classification using Machine Learning.					
 
 ## 1. Introduction
@@ -14,7 +13,7 @@ The challenge then, is to find measurable properties that differ in dissimilar r
 Next, we’ll want to tune the model produced, to achieve the best possible accuracy. So we’ll need to consider how we can measure successful classification - and how can the performance of the model be optimised. Putting all this together suggests a processing pipeline as shown in Fig 1.
 
 ### 1.2 Figures
-![An overview block diagram of the project.](https://github.com/ashutoshns/ashutoshns.github.io/master/dsp-s5/img/fig1.jpg "Fig. 1: An overview block diagram of the project")
+![An overview block diagram of the project.](https://ashutoshns.github.io/dsp-s5/img/fig1.jpg "Fig. 1: An overview block diagram of the project")
 Fig. 1: An overview block diagram of the project.
 							</p>
 						</div>
