@@ -13,14 +13,15 @@ The challenge then, is to find measurable properties that differ in dissimilar r
 Next, we’ll want to tune the model produced, to achieve the best possible accuracy. So we’ll need to consider how we can measure successful classification - and how can the performance of the model be optimised. Putting all this together suggests a processing pipeline as shown in Fig 1.
 
 ### 1.2 Figures
-![An overview block diagram of the project](https://ashutoshns.github.io/dsp-s5/img/fig1.jpg "Fig. 1: An overview block diagram of the project")
+
 Fig. 1: An overview block diagram of the project.
+![An overview block diagram of the project](https://ashutoshns.github.io/dsp-s5/img/fig1.jpg "Fig. 1: An overview block diagram of the project")
 
-![Amplitude vs. Time plot for sample files from all four categories](https://ashutoshns.github.io/dsp-s5/img/fig2.jpg "Fig 2: Amplitude vs. Time plot for sample files from all four categories.")
 Fig 2: Amplitude vs. Time plot for sample files from all four categories.
+![Amplitude vs. Time plot for sample files from all four categories](https://ashutoshns.github.io/dsp-s5/img/fig2.jpg "Fig 2: Amplitude vs. Time plot for sample files from all four categories.")
 
-![Spectrogram of sample files from all four categories](https://ashutoshns.github.io/dsp-s5/img/fig3.jpg "Fig 3: Spectrogram of sample files from all four categories.")
 Fig 3: Spectrogram of sample files from all four categories.
+![Spectrogram of sample files from all four categories](https://ashutoshns.github.io/dsp-s5/img/fig3.jpg "Fig 3: Spectrogram of sample files from all four categories.")
 
 ### 1.3 Literature Review
 Write something here.
