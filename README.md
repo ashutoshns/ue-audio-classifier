@@ -13,36 +13,17 @@ The challenge then, is to find measurable properties that differ in dissimilar r
 Next, we’ll want to tune the model produced, to achieve the best possible accuracy. So we’ll need to consider how we can measure successful classification - and how can the performance of the model be optimised. Putting all this together suggests a processing pipeline as shown in Fig 1.
 
 ### 1.2 Figures
-![An overview block diagram of the project.](https://ashutoshns.github.io/dsp-s5/img/fig1.jpg "Fig. 1: An overview block diagram of the project")
+![An overview block diagram of the project](https://ashutoshns.github.io/dsp-s5/img/fig1.jpg "Fig. 1: An overview block diagram of the project")
 Fig. 1: An overview block diagram of the project.
-							</p>
-						</div>
-						<div style="width:45%; float:left">
-							<p>&nbsp;&nbsp;&nbsp;&nbsp;
-								<img src="img/fig2.jpg" alt="Amplitude vs. Time plot for sample files from all 4 categories." style="width:90%; height:auto; align:center;">
-								Fig 2: Amplitude vs. Time plot for sample files from all four categories.
-							</p>
-						</div>
-						<div style="width:45%; float:left">
-							<p>&nbsp;&nbsp;&nbsp;&nbsp;
-								<img src="img/fig3.jpg" alt="Spectrogram of sample files from all 4 categories." style="width:90%; height:auto; align:center;">
-								Fig 3: Spectrogram of sample files from all four categories.
-							</p>
-						</div>
-						<!-- Stop edit here -->
 
-					</div>
-				</div>
-				<div class="subsection">
-					<div class="headingss">1.3 Literature Review</div>
-					<div class="text">
+![Amplitude vs. Time plot for sample files from all four categories](https://ashutoshns.github.io/dsp-s5/img/fig2.jpg "Fig 2: Amplitude vs. Time plot for sample files from all four categories.")
+Fig 2: Amplitude vs. Time plot for sample files from all four categories.
 
-						<!-- Start edit here  -->
-						Write something here.
-						<!-- Stop edit here -->
+![Spectrogram of sample files from all four categories](https://ashutoshns.github.io/dsp-s5/img/fig3.jpg "Fig 3: Spectrogram of sample files from all four categories.")
+Fig 3: Spectrogram of sample files from all four categories.
 
-					</div>
-				</div>
+### 1.3 Literature Review
+Write something here.
 				<div class="subsection">
 					<div class="headingss">1.4 Proposed Approach Idea</div>
 					<div class="text">
