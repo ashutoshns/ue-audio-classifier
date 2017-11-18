@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 02 10:41:31 2017
-
 @author: ashutoshns
 """
 
