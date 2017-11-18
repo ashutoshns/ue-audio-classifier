@@ -1,4 +1,4 @@
-# URBAN ENVIRONMENT AUDIO CLASSIFICATION
+# Urban Environment Audio Classification
 
 The goal of this project is to build an audio classifier capable of recognising different sounds. The sounds we have used are ambient noises from an urban environment. Right now we have focused on 4 categories of sounds. This can prove to be a very effective tool for audio surviellance of the sorrounding. It's applications can vary from as simple as making a device to detect a dog's bark to as big as detection of gun shots/bombing or other terrorist activities. We tried plotting different types of spectrograms of samples from each class which inturn lead us to see what filters would be best suited for this classification. In the end we used Mel-frequency cepstral coefficients, Mel-scaled power spectrogram, Chromagram of a short-time Fourier transform, Octave-based spectral contrast, Tonnetz to extract features. The coeffecients from these filters led to 193 features which were then used for classification using Machine Learning.					
 
