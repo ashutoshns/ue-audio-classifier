@@ -10,7 +10,7 @@ import stft_gen as FT
 import chroma_gen as CH
 import mfcc_gen as MF
 import spectral_contrast_gen as SP
-parent_path = './audio/'
+parent_path = 'audio/'
 
 def extract_feature(file_name):
     X, sample_rate = librosa.load(file_name)
@@ -79,6 +79,6 @@ def save_data(data_dir):
             print "Saved " + feature_file
             np.save(labels_file, labels)
             print "Saved " + labels_file
-save_dir = "data/new/"
+save_dir = "data/"
 path_check(save_dir)
 save_data(audio_directory)
