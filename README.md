@@ -6,6 +6,7 @@ The goal of this project is to build an audio classifier capable of recognising 
 
 - This package uses os, glob, numpy, matplotlib, pandas, tensorflow, librosa(for resampling and reduction in the audio rate)
 - To install these dependencies:
+
 'sudo apt install python-pip'
 'sudo pip install os glob numpy matplotlib pandas tensorflow librosa'
 
