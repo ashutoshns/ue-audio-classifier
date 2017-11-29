@@ -26,7 +26,7 @@ def extract_feature(audio_directory,file_name):
     
     return features
 
-audio_directory = "dsp/samples"
+audio_directory = "samples"
 
 
 #making the predictions
