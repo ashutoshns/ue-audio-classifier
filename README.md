@@ -23,6 +23,7 @@ sudo pip install os glob numpy matplotlib pandas tensorflow librosa
 - Open a terminal and navigate to the project directory i.e. the directory with all the python codes.
 - Ensure that you have installed all the dependencies.
 - Then run the feature extraction code
+
 ```python features.py```
 - This should give a several numpy array files in the folder `data`
 
@@ -31,12 +32,14 @@ sudo pip install os glob numpy matplotlib pandas tensorflow librosa
 - Ensure that step 2 did create nimpy arrays with as many total number of rows as the number of audio files supplied and 187b columns.
 - Now delete the README file in `data` folder.
 - Run the training code
+
 ```python train.py```
 
 ### step 4
 
 - Now put all your prediction test files in `samples` folder.
 - Make appropriate changes to the `file_names` and `audio_names` arrays in `predict .py` and run it.
+
 ```python predict.py```
 
 Tadaaa! You're done.
