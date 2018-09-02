@@ -2,6 +2,8 @@
 
 The goal of this project is to build an audio classifier capable of recognising different sounds. The sounds we have used are ambient noises from an urban environment. Right now we have focused on 4 categories of sounds namely air conditioner, car horn, children playing and street music.
 
+**Note:** This readme is only to walk you through implementation of the code. A detailed report can be found at https://ashutoshns.github.io/ue-audio-classifier/
+
 ### dependencies
 
 - This package uses os, glob, numpy, matplotlib, pandas, tensorflow, librosa(for resampling and reduction in the audio rate)
